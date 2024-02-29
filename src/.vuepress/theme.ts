@@ -25,7 +25,7 @@ export default hopeTheme({
   // docsDir: 'docs',
 
   blog: {
-    avatar: '/avatar.jpg',
+    avatar: '/avatar.png',
     medias: {
       Gitee: 'https://gitee.com/asoar',
       GitHub: 'https://github.com/asoaro',
@@ -50,7 +50,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: '一个前端开发者'
+        description: '一个大数据开发者'
         // intro: "/zh/intro.html",
       },
 

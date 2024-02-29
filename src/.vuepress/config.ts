@@ -9,12 +9,12 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'OUTOFF ORBIT',
-      description: '前端技术经验分享、个人生活博客'
+      title: '景秀大数据',
+      description: '大数据技术经验分享、目标识别、大模型前沿技术分享'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'OUTOFF ORBIT',
+      title: 'Kingshow Big Data',
       description: 'A blog about my life and front-end'
     }
   },

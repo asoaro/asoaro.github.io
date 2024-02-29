@@ -31,16 +31,16 @@ import Circle from "@Circle";
 ### 求职意向
 
   <div class="person">
-    <div>应聘岗位：<span>前端开发</span></div>
+    <div>应聘岗位：<span>大数据讲师</span></div>
      <div>期望薪资：<span>面议</span></div>
-    <div>工作地点：<span>深圳、广州</span></div>
+    <div>工作地点：<span>北京</span></div>
     <div>工作性质：<span>全职</span></div>
   </div>
 
 ### 联系方式
 
   <div class="person contact">
-    <div>手机：<span>13631649711</span></div>
+    <div>手机：<span>18610862223</span></div>
      <div>邮箱：<a href="mailto:asoar@163.com" target="_black">asoar@163.com</a></div>
     <div>个人博客：<a href="https://asoar.gitee.io" target="_black">https://asoar.gitee.io</a></div>
   </div>
