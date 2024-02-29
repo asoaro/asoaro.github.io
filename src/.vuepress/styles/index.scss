@@ -1,0 +1,55 @@
+// place your custom styles here
+.hero-image {
+  width: 80vw;
+}
+.blog-hero h1 {
+  color: #fff;
+}
+
+// 隐藏滚动条
+// webkit内核
+body::-webkit-scrollbar {
+  display: none;
+}
+// IE10+
+body {
+  -ms-overflow-style: none;
+}
+// firefox
+html {
+  scrollbar-width: none;
+}
+
+// 更改footer布局
+.footer-wrapper {
+  flex-direction: column;
+  // 移动端下原本x轴设置的flex换行使div不居中，更改flex方向后无需换行
+  flex-wrap: nowrap;
+}
+
+.blog-hero .mask::after {
+  opacity: 0.1 !important;
+}
+
+// 修改主页右侧边栏logo圆角
+.blogger-info .blogger-avatar {
+  border-radius: 10px;
+}
+
+// 修复移动端侧边栏按钮标签被遮挡
+@media (max-width: 719px) {
+  .sidebar {
+    z-index: 180;
+  }
+}
+
+.sidebar {
+  overflow-y: visible;
+}
+
+// 目前只有时间线容器会溢出，后续在修改其他3个按钮
+.timeline-list-wrapper .timeline-content {
+  max-height: 70vh !important;
+}
+
+
