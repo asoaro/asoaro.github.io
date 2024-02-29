@@ -190,7 +190,7 @@ GitHub Actions 是一个实现持续集成（Continuous integration）和持续�
 `Github用户名/Actions名`
 :::
 
-回到部署博客中，你可参考我博客中的[工作流代码](https://github.com/Wu-JunHui/Wu-JunHui.github.io/blob/main/.github/workflows/deploy-docs.yml)，每一步我都编写了详细的注释，因此我只列出博客 Actions 的步骤流程：
+回到部署博客中，你可参考我博客中的[工作流代码](https://github.com/asoaro/asoaro.github.io/blob/main/.github/workflows/deploy-docs.yml)，每一步我都编写了详细的注释，因此我只列出博客 Actions 的步骤流程：
 
 1. 检查仓库代码
 2. 安装 Node.js
@@ -282,7 +282,7 @@ Gitee Pages 与 GitHub Pages 类似，也分为个人页面和项目页面，使
 
 ## 总结
 
-以上就是我的博客部署之路，虽然不太顺利，但一路下来也学习了不少东西，例如 GitHub Actions，如果你对本篇文章有任何疑问或发现任何错误，欢迎评论区留言或 e-mail 我：wu-junhui@foxmail.com
+以上就是我的博客部署之路，虽然不太顺利，但一路下来也学习了不少东西，例如 GitHub Actions，如果你对本篇文章有任何疑问或发现任何错误，欢迎评论区留言或 e-mail 我：asoar@163.com
 
 ## 参考
 

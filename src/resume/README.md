@@ -41,7 +41,7 @@ import Circle from "@Circle";
 
   <div class="person contact">
     <div>手机：<span>13631649711</span></div>
-     <div>邮箱：<a href="mailto:wu-junhui@foxmail.com" target="_black">wu-junhui@foxmail.com</a></div>
+     <div>邮箱：<a href="mailto:asoar@163.com" target="_black">asoar@163.com</a></div>
     <div>个人博客：<a href="https://w-junhui.gitee.io" target="_black">https://w-junhui.gitee.io</a></div>
   </div>
 
