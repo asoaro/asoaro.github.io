@@ -12,11 +12,11 @@ article: false
 
 <SiteInfo 
 name="General Backstage Management System" 
-url="https://w-junhui.gitee.io/backstage" 
+url="https://asoar.gitee.io/backstage" 
 desc="A pure static front-end Web application based on Vite + Vue3" 
 preview="/projects/backstage/homePage.webp" 
 logo="/logo.svg" 
-repo="https://github.com/Wu-JunHui/backstage" />
+repo="https://github.com/asoaro/backstage" />
 
 <!-- 图片路径基于public/下 -->
 <Swiper :imgUrl="['projects/backstage/loginPage.webp','projects/backstage/homePage.webp','projects/backstage/userPage.webp']" />
@@ -34,7 +34,7 @@ In the current system:
 
 Deploy in GitHub pages: https://outofforbit.com/backstage
 
-Deploy in Gitee pages: https://w-junhui.gitee.io/backstage
+Deploy in Gitee pages: https://asoar.gitee.io/backstage
 
 ### Technology stack
 
@@ -85,11 +85,11 @@ Deploy in Gitee pages: https://w-junhui.gitee.io/backstage
 
 <SiteInfo 
 name="Urban Weather Forecast in China" 
-url="https://w-junhui.gitee.io/weather-forecast" 
+url="https://asoar.gitee.io/weather-forecast" 
 desc="Provides a one-week weather forecasts for cities in China" 
 preview="/projects/weather/weather.webp" 
 logo="/logo.svg" 
-repo="https://github.com/Wu-JunHui/Weather-Forecast" />
+repo="https://github.com/asoaro/Weather-Forecast" />
 
 ### Technology stack
 
@@ -98,4 +98,4 @@ repo="https://github.com/Wu-JunHui/Weather-Forecast" />
 3. By comparing the city suffixes ('市', '县', '自治州', '岛'), the legal city name is determined to be a request parameter. To make the request easier, I set the `Axios` as the Vue global property `$http`，and request/response interceptor is also set at the same time.
 4. Used the `Less` to write the styles and applyed some icons from [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
-Deploy in Gitee pages: https://w-junhui.gitee.io/weather-forecast
+Deploy in Gitee pages: https://asoar.gitee.io/weather-forecast

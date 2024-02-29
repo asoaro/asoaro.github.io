@@ -12,11 +12,11 @@ article: false
 
 <SiteInfo 
 name="通用后台管理系统" 
-url="https://w-junhui.gitee.io/backstage" 
+url="https://asoar.gitee.io/backstage" 
 desc="基于 Vite + Vue3 构建的纯前端静态 Web 应用" 
 preview="/projects/backstage/homePage.webp" 
 logo="/logo.svg" 
-repo="https://github.com/Wu-JunHui/backstage" />
+repo="https://github.com/asoaro/backstage" />
 
 <!-- 图片路径基于public/下 -->
 
@@ -35,7 +35,7 @@ import Swiper from "@Swiper";
 
 部署于 GitHub pages: https://outofforbit.com/backstage
 
-部署于 Gitee pages: https://w-junhui.gitee.io/backstage
+部署于 Gitee pages: https://asoar.gitee.io/backstage
 
 ### 技术栈
 
@@ -86,11 +86,11 @@ import Swiper from "@Swiper";
 
 <SiteInfo 
 name="中国天气预报" 
-url="https://w-junhui.gitee.io/weather-forecast" 
+url="https://asoar.gitee.io/weather-forecast" 
 desc="提供全国城市当天往后一周的天气预报" 
 preview="/projects/weather/weather.webp" 
 logo="/logo.svg" 
-repo="https://github.com/Wu-JunHui/Weather-Forecast" />
+repo="https://github.com/asoaro/Weather-Forecast" />
 
 ### 技术栈
 
@@ -100,4 +100,4 @@ repo="https://github.com/Wu-JunHui/Weather-Forecast" />
 4. 使用 Vue 3 的函数模板引用获取 `v-for` 后的 DOM 数组，循环渲染每一天的天气精灵图图标
 5. 项目中使用 `Less` 编写样式，同时使用了 [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
-部署于 Gitee pages: https://w-junhui.gitee.io/weather-forecast
+部署于 Gitee pages: https://asoar.gitee.io/weather-forecast

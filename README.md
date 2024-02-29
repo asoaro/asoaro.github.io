@@ -23,7 +23,7 @@ Then you may ask, why is there an extra `F` in the domain name? Well, the answer
 
 Blog deploy in GitHub pages: https://outofforbit.com
 
-Blog deploy in Gitee pages: https://w-junhui.gitee.io
+Blog deploy in Gitee pages: https://asoar.gitee.io
 
 ## Start Dev mode
 
@@ -40,7 +40,7 @@ npm run dev-clean
 
 With the magic power of [GitHub Actions](https://docs.github.com/zh/actions), the blog can be deployed to [GitHub Pages](https://docs.github.com/zh/pages) and [Gitee Pages](https://gitee.com/help/articles/4136#article-header0) automatically once it's built. In other words, you don't have to run the script command(npm run docs:build) with your bare hand, but adding some simple steps in the workflow file by using the GitHub Actions.
 
-For more details of deployment, you can visit my blog [Deployment of my blog](https://w-junhui.gitee.io/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/VuePress/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E4%B9%8B%E8%B7%AF.html)  
+For more details of deployment, you can visit my blog [Deployment of my blog](https://asoar.gitee.io/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/VuePress/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E4%B9%8B%E8%B7%AF.html)  
 CSDN：[我的 VuePress 博客部署之路](https://blog.csdn.net/INT_FUTURE/article/details/128975977)
 
 > GitHub Actions is a platform for continuous integration and continuous delivery. If you're not familiar with GitHub Actions, see if [this article](https://github.com/mqyqingfeng/Blog/issues/237) or [GitHub Actions official guide](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) can help you understand it.
@@ -57,8 +57,8 @@ The blog is using [Giscus](https://giscus.app/) comments system which is powered
 
 ## Contact me
 
-If you have any questions about this repo, feel free to e-mail me: wu-junhui@foxmail.com  
-Or you may create a [Issues](https://github.com/Wu-JunHui/Wu-JunHui.github.io/issues).
+If you have any questions about this repo, feel free to e-mail me: asoar@163.com  
+Or you may create a [Issues](https://github.com/asoaro/asoaro.github.io/issues).
 
 ## Open source license
 
@@ -84,7 +84,7 @@ Or you may create a [Issues](https://github.com/Wu-JunHui/Wu-JunHui.github.io/is
 
 部署于 GitHub pages: https://outofforbit.com
 
-部署于 Gitee pages: https://w-junhui.gitee.io
+部署于 Gitee pages: https://asoar.gitee.io
 
 ## 开发模式
 
@@ -103,7 +103,7 @@ npm run dev-clean
 
 换言之，在配置好工作流后，每次更新博客都只需执行 `git push`，让工作流进行项目的构建与自动部署，实现博文自动更新
 
-更多部署细节，可参考我的博客文章 [《我的博客部署之路》](https://w-junhui.gitee.io/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/VuePress/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E4%B9%8B%E8%B7%AF.html)  
+更多部署细节，可参考我的博客文章 [《我的博客部署之路》](https://asoar.gitee.io/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/VuePress/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E4%B9%8B%E8%B7%AF.html)  
 CSDN：[我的 VuePress 博客部署之路](https://blog.csdn.net/INT_FUTURE/article/details/128975977)
 
 > GitHub Actions 是一个持续集成 (Continuous integration)和持续交付 (Continuous delivery)的平台，如果你不熟悉 GitHub Actions，可参考[这篇文章](https://github.com/mqyqingfeng/Blog/issues/237)或 [GitHub Actions 官方中文文档](https://docs.github.com/zh/actions/learn-github-actions/understanding-github-actions)
@@ -121,8 +121,8 @@ CSDN：[我的 VuePress 博客部署之路](https://blog.csdn.net/INT_FUTURE/art
 
 ## 联系我
 
-如果对该仓库的代码有任何疑问，可通过邮箱联系我：wu-junhui@foxmail.com  
-或者你也可以创建一个 [Issues](https://github.com/Wu-JunHui/Wu-JunHui.github.io/issues)
+如果对该仓库的代码有任何疑问，可通过邮箱联系我：asoar@163.com  
+或者你也可以创建一个 [Issues](https://github.com/asoaro/asoaro.github.io/issues)
 
 ## 开源许可
 

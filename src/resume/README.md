@@ -42,7 +42,7 @@ import Circle from "@Circle";
   <div class="person contact">
     <div>手机：<span>13631649711</span></div>
      <div>邮箱：<a href="mailto:asoar@163.com" target="_black">asoar@163.com</a></div>
-    <div>个人博客：<a href="https://w-junhui.gitee.io" target="_black">https://w-junhui.gitee.io</a></div>
+    <div>个人博客：<a href="https://asoar.gitee.io" target="_black">https://asoar.gitee.io</a></div>
   </div>
 
 ## 教育背景
@@ -104,7 +104,7 @@ import Circle from "@Circle";
 3. 二次封装 Axios，通过请求/响应拦截器统一处理项目中所有请求的重复步骤，并将项目中所有的 Ajax 请求函数封装为统一的接口模块，以方便统一管理
 4. 设置全局前置守卫，处理登录前通过修改路径的非法访问，以及处理登录后访问不存在路径
 
-**在线演示**：https://w-junhui.gitee.io/backstage （已默认填入管理员账号，默认成员账号： Apple，密码都是：123456）
+**在线演示**：https://asoar.gitee.io/backstage （已默认填入管理员账号，默认成员账号： Apple，密码都是：123456）
 
 ### 二、中国城市天气预报
 
@@ -115,7 +115,7 @@ import Circle from "@Circle";
 2. 通过比对城市后缀（'市', '县', '自治州', '岛'），判断出合法城市名后，使用被设置为全局属性 `$http` 的 Axios 发起 Ajax 请求，通过 `$nextTick` 保证在每次查询时能正常渲染出数据，设置请求/响应拦截器以应用加载效果
 3. 使用 Vue 3 的函数模板引用获取 `v-for` 后的 DOM 数组，循环渲染每一天的天气精灵图图标
 
-**在线演示**：https://w-junhui.gitee.io/backstage 
+**在线演示**：https://asoar.gitee.io/backstage 
 
 ## 自我评价
 
@@ -123,7 +123,7 @@ import Circle from "@Circle";
 - 能流畅阅读英文文档，积极参与 GitHub 开源项目的维护，例如为 [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) 提出移动端样式 bug 的[建议](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues/2031)
 - 个人博客：
   - https://outofforbit.com（部署于 GitHub Pages）
-  - https://w-junhui.gitee.io（部署于 Gitee Pages）
+  - https://asoar.gitee.io（部署于 Gitee Pages）
 
 <style lang="scss">
 .person {
