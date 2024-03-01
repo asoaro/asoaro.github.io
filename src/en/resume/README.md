@@ -122,7 +122,7 @@ import Circle from "@Circle";
 - 秉承<i>终身学习</i>的思想，借助软件 mindmaster 构建自身知识网络，目前正在准备雅思考试及学习 TypeScript
 - 能流畅阅读英文文档，积极参与 GitHub 开源项目的维护，例如为 [vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) 提出移动端样式 bug 的[建议](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues/2031)
 - 个人博客：
-  - https://outofforbit.com（部署于 GitHub Pages）
+  - https://asoaro.com（部署于 GitHub Pages）
   - https://asoar.gitee.io（部署于 Gitee Pages）
 
 <style lang="scss">

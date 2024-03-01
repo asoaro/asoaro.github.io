@@ -32,7 +32,7 @@ In the current system:
 - Default **administrator** account: `admin`, password:`123456`
 - Default **member** account: `Apple`，密码：`123456`
 
-Deploy in GitHub pages: https://outofforbit.com/backstage
+Deploy in GitHub pages: https://asoaro.com/backstage
 
 Deploy in Gitee pages: https://asoar.gitee.io/backstage
 

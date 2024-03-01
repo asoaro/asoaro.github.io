@@ -17,11 +17,11 @@
 
 This is my first blog website based on a VuePress theme called [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/). It's maintained by one of the group members of VuePress Project. Here is his [personal website](https://mrhope.site/).
 
-The reason why I registered the domain name `outofforbit.com` is because I think my life is pretty much like a planet in the universe. The different part is，I have the very right to control my orbit when I sense it's going to be swallowed by a black hole. I can take it **out of** its regular **orbit**.
+The reason why I registered the domain name `asoaro.com` is because I think my life is pretty much like a planet in the universe. The different part is，I have the very right to control my orbit when I sense it's going to be swallowed by a black hole. I can take it **out of** its regular **orbit**.
 
 Then you may ask, why is there an extra `F` in the domain name? Well, the answer is very simple. Because `outoforbit.com` has been registered by someone else and I just want to use `.com` only.
 
-Blog deploy in GitHub pages: https://outofforbit.com
+Blog deploy in GitHub pages: https://asoaro.com
 
 Blog deploy in Gitee pages: https://asoar.gitee.io
 
@@ -78,11 +78,11 @@ Or you may create a [Issues](https://github.com/asoaro/asoaro.github.io/issues).
 
 基于 VuePress 主题 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 搭建的个人博客，该主题由 [VuePress 2](https://v2.vuepress.vuejs.org/zh/) 项目作者维护，这是他的 [个人网站](https://mrhope.site/)
 
-之所以注册 `outofforbit.com` 这个域名，是因为我觉得我的生活就像宇宙中的一颗行星。不同的是，当我感觉到它将被黑洞吞噬时，我有控制轨道的绝对权利：让它脱离常规轨道（out of orbit）
+之所以注册 `asoaro.com` 这个域名，是因为我觉得我的生活就像宇宙中的一颗行星。不同的是，当我感觉到它将被黑洞吞噬时，我有控制轨道的绝对权利：让它脱离常规轨道（out of orbit）
 
 那么你可能会问，为什么域名里多了一个 `F` 呢? 原因很简单，因为 `outoforbit.com` 已经被别人注册了，同时我只想使用 `.com` 后缀
 
-部署于 GitHub pages: https://outofforbit.com
+部署于 GitHub pages: https://asoaro.com
 
 部署于 Gitee pages: https://asoar.gitee.io
 

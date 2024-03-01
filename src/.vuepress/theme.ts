@@ -5,8 +5,8 @@ export default hopeTheme({
   hostname: 'https://asoaro.github.io/',
 
   author: {
-    name: 'asoar'
-    // url: 'https://outofforbit.com'
+    name: '胡建华'
+    // url: 'https://asoaro.com'
   },
 
   // 启用主题提供的字体图标，设置图标资源 url
@@ -50,7 +50,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: '一个大数据开发者'
+        description: '一个大数据讲师'
         // intro: "/zh/intro.html",
       },
 
