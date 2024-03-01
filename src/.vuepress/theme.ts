@@ -50,7 +50,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: '一个大数据讲师'
+        description: '大数据实训讲师'
         // intro: "/zh/intro.html",
       },
 
