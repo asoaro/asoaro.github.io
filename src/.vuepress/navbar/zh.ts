@@ -2,10 +2,10 @@ import { navbar } from 'vuepress-theme-hope'
 
 export const zhNavbar = navbar([
   '/',
-  { text: '个人简历', icon: 'profile', link: '/resume/' },
-  { text: '项目展示', icon: 'repo', link: '/projects/' },
+  { text: '简历', icon: 'profile', link: '/resume/' },
+  { text: '项目', icon: 'repo', link: '/projects/' },
   {
-    text: '技术博文',
+    text: '博文',
     icon: 'advance',
     link: '/article/'
     // children: [
