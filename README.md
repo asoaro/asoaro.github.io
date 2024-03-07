@@ -11,7 +11,7 @@
 </div>
 &nbsp;
 
-## 我的首创博客
+## 我的第一个博客
 
 ![](/src/.vuepress/public/Chinese.webp)
 
